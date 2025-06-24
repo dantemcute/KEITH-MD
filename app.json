@@ -25,18 +25,18 @@
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254748387615, 254796299159 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254748387615, 254114191358 ",
       "required": false
     },
     "OWNER_NAME": {
       "description": "add your owner name for the bot",
-         "value": "",
+         "value": "dantemcute",
       "required": true
     },
 
     "BOTNAME": {
       "description": "Enter name for your bot.",
-      "value": "",
+      "value": "dantemcute",
       "required": true
     },
 
@@ -45,7 +45,7 @@
       "required": true
     },
 
-"URL": {
+"BLACK MD;;;wmdDXJiS#jhAOUIhYDFUQtz0Zh1pmYjuWb61mY5XjWOZQCDA-teM": {
       "description": "Replace with your image url",
       "value": "https://files.catbox.moe/mikdi0.jpg",
       "required": true
